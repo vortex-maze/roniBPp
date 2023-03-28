@@ -1,0 +1,6 @@
+Build-date: 2023-03-24
+PINN Version: v3.8.6
+PINN Git HEAD @ f759744ca3090b3fe12b619556ecdc7988d74432
+rpi-userland Git master @ 8fa944c74085aacd99da3e733af8dc5ac9b04fd9
+rpi-firmware Git master @ 191360eaf2e5933eaa0ed76ac0d62722b6f9a58f
+rpi-linux Git rpi-5.4.y @ dc6771425e9604650d1d57f7c69948be405f59a5
